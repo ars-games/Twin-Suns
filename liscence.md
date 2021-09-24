@@ -5,7 +5,7 @@ This file is part of the Loom RPG Engine project.
 The Loom RPG Engine project can not be copied and/or distributed without the express
 permission of Alia-June@ARS.games.
 
-Expressly
+
 
 All licenses in this repository are copyrighted by their respective authors.
 
